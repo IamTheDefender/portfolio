@@ -50,6 +50,50 @@ export const projectsData = [
         code: '#projects',
         image: ''
     },
+    {
+        id: 7,
+        projectName: 'DynamicEconomy',
+        projectDesc: 'A private plugin made for a client, a economy plugin based on supply and demand',
+        tags: ['Java', 'Standalone'],
+        code: '#projects',
+        image: ''
+    },
+    {
+        id: 8,
+        projectName: 'BoostQueue',
+        projectDesc: 'A private plugin made for a client, this plugin adds the ability to queue perks',
+        tags: ['Java', 'Standalone'],
+        code: '#projects',
+        image: ''
+    },
+    {
+        id: 9,
+        projectName: 'TNT Tag',
+        projectDesc: 'A private plugin made for a client, based on the TNT Tag minigame',
+        tags: ['Java', 'Standalone'],
+        code: '#projects',
+        image: ''
+    },
+    {
+        id: 10,
+        projectName: 'VeinsManager',
+        projectDesc: 'A private plugin made for a client, this plugin adds the ability to increase the amount of veins generated per ore per world',
+        tags: ['Java', 'Standalone'],
+        code: '#projects',
+        image: ''
+    },
+    {
+        id: 11,
+        projectName: 'PerksTimer',
+        projectDesc: 'A private plugin made for a client, adds the ability to see active perks on actionbar',
+        tags: ['Java', 'Standalone'],
+        code: '#projects',
+        image: ''
+    },
+
+
+
+    
 ]
 
 
